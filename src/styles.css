@@ -35,18 +35,11 @@ event {
   text-align: center;
   text-transform: uppercase;
   width: 960px;
-  /* -webkit-text-stroke: 1px white; */
-  /* 	text-shadow:
-	  -2px -2px 0 rgba(255, 255, 255, 0.5),  
-    2px -2px 0 rgba(255, 255, 255, 0.5),
-    -2px 2px 0 rgba(255, 255, 255, 0.5),
-    2px 2px 0 rgba(255, 255, 255, 0.5); */
 }
 
 loc {
   position: absolute;
   top: 530px;
-  /*   left: 0px; */
   color: #dddddd;
   font-family: "PT Sans Narrow", Helvetica, Arial, sans-serif;
   font-weight: normal;
@@ -94,8 +87,6 @@ legend {
 
 /* background */
 body {
-  /*   background: #000; */
-  background-image: linear-gradient(#08415c, #08415c, #54a2bf);
-  overflow: hidden;
+  background: linear-gradient(to top, rgb(29, 57, 87), #309ebe) fixed;
   text-align: center;
 }
