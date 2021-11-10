@@ -3,7 +3,7 @@ year {
   position: absolute;
   top: 0px;
   left: 50px;
-  color: #54a2bf;
+  color: rgb(29, 57, 87);
   font-family: "PT Sans Narrow", Helvetica, Arial, sans-serif;
   font-size: 72px;
   font-weight: bold;
@@ -52,7 +52,7 @@ day {
   position: absolute;
   top: 750px;
   left: 50px;
-  color: #08415c;
+  color: rgb(29, 57, 87);
   font-family: "PT Sans Narrow", Helvetica, Arial, sans-serif;
   font-size: 72px;
   font-weight: bold;
@@ -64,7 +64,7 @@ month {
   position: absolute;
   top: 825px;
   left: 55px;
-  color: #08415c;
+  color: rgb(29, 57, 87);
   font-family: "PT Sans Narrow", Helvetica, Arial, sans-serif;
   font-size: 36px;
   font-weight: normal;
