@@ -1,15 +1,16 @@
 import "./styles.css";
-// import "d3";
+import * as d3 from "d3";
 
 var width = 960,
   height = 960;
 
-var projection = d3.geo
-  .orthographic()
+var projection = d3
+  .geoOrthographic()
   .translate([width / 2, height / 2])
   .scale(width / 2 - 20)
   .clipAngle(90)
   .precision(0.6);
+// .rotate(0);
 
 var canvas = d3
   .select("body")
@@ -19,11 +20,11 @@ var canvas = d3
 
 var c = canvas.node().getContext("2d");
 
-var path = d3.geo.path().projection(projection).context(c).pointRadius(8);
+var path = d3.geoPath(projection).context(c).pointRadius(8);
 
 // scales
-var col = d3.scale
-  .ordinal()
+var col = d3
+  .scaleOrdinal()
   .domain([
     "Culture/Society",
     "European Union",
@@ -33,8 +34,8 @@ var col = d3.scale
   ])
   .range(["#3C1438", "#096789", "#5EBFBC", "#F28C00", "#D82739"]);
 
-var legend = d3.scale
-  .linear()
+var legend = d3
+  .scaleLinear()
   .domain([
     "Culture/Society",
     "European Union",
@@ -50,7 +51,7 @@ var event = d3.select("event");
 var loc = d3.select("loc");
 var day = d3.select("day");
 var month = d3.select("month");
-var legend = d3.select("legend");
+// var legend = d3.select("legend");
 var year = d3.select("year");
 var key = d3.select("key");
 
