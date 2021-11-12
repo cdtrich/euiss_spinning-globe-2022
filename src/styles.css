@@ -87,6 +87,6 @@ legend {
 
 /* background */
 body {
-  background: linear-gradient(to top, rgb(29, 57, 87), #309ebe) fixed;
+  background: linear-gradient(to right, rgb(29, 57, 87), #309ebe) fixed;
   text-align: center;
 }
