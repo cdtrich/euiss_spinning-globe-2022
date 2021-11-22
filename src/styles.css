@@ -3,7 +3,7 @@ year {
   position: absolute;
   top: 0px;
   left: 50px;
-  color: #54a2bf;
+  color: #1d3956;
   font-family: "PT Sans Narrow", Helvetica, Arial, sans-serif;
   font-size: 72px;
   font-weight: bold;
@@ -52,7 +52,7 @@ day {
   position: absolute;
   top: 750px;
   left: 50px;
-  color: #08415c;
+  color: #1d3956;
   font-family: "PT Sans Narrow", Helvetica, Arial, sans-serif;
   font-size: 72px;
   font-weight: bold;
@@ -64,7 +64,7 @@ month {
   position: absolute;
   top: 825px;
   left: 55px;
-  color: #08415c;
+  color: #1d3956;
   font-family: "PT Sans Narrow", Helvetica, Arial, sans-serif;
   font-size: 36px;
   font-weight: normal;
@@ -87,6 +87,6 @@ legend {
 
 /* background */
 body {
-  background: linear-gradient(to top, rgb(29, 57, 87), #309ebe) fixed;
+  background: linear-gradient(to top, #1d3956, ##00a0c1) fixed;
   text-align: center;
 }
