@@ -36,24 +36,24 @@ const createChart = async () => {
     ])
     .range(["#3C1438", "#096789", "#5EBFBC", "#F28C00", "#D82739"]);
 
-  var legend = d3.scale
-    .linear()
-    .domain([
-      "Culture/Society",
-      "European Union",
-      "Global",
-      "History",
-      "Politics"
-    ])
-    // .range(["#090D11", "#0B6889", "#5FBFBC", "#F18C02", "#D82739"]);
-    .range([800, 900]);
+  // var legend = d3.scale
+  //   .linear()
+  //   .domain([
+  //     "Culture/Society",
+  //     "European Union",
+  //     "Global",
+  //     "History",
+  //     "Politics"
+  //   ])
+  //   // .range(["#090D11", "#0B6889", "#5FBFBC", "#F18C02", "#D82739"]);
+  //   .range([800, 900]);
 
   // copy
   var event = d3.select("event");
   var loc = d3.select("loc");
   var day = d3.select("day");
   var month = d3.select("month");
-  var legend = d3.select("legend");
+  // var legend = d3.select("legend");
   var year = d3.select("year");
   var key = d3.select("key");
 
@@ -65,8 +65,9 @@ const createChart = async () => {
     )
     // .defer(d3.json, "https://unpkg.com/world-atlas@1/world/110m.json")
     // .defer(d3.json, "110m.json")
+    // .defer(d3.json, "src/cities.geojson")
     .defer(d3.json, "src/cities.topojson")
-    .defer(d3.csv, "cities.csv")
+    // .defer(d3.csv, "cities.csv")
     .await(ready);
 
   function ready(error, world, dots, cities) {
@@ -74,7 +75,7 @@ const createChart = async () => {
 
     var globe = { type: "Sphere" },
       land = topojson.feature(world, world.objects.land),
-      dots = topojson.feature(dots, dots.objects.foo).features,
+      points = topojson.feature(dots, dots.objects.foo).features,
       type = dots.type,
       i = -1,
       n = dots.length;
@@ -89,16 +90,14 @@ const createChart = async () => {
               loc.text(cities[i].loc),
               day.text(cities[i].day),
               month.text(cities[i].month),
-              // legend.text(cities[i].type), legend.fillStyle = col(cities[i].type),
-              legend.text(cities[i].type),
-              year.text("2020"),
+              year.text("2022"),
               key.text("what's to come");
           } else {
             i = -1;
           }
         })
         .tween("rotate", function () {
-          var p = d3.geo.centroid(dots[i]),
+          var p = d3.geo.centroid(points[i]),
             r = d3.interpolate(projection.rotate(), [-p[0], -p[1]]),
             type = cities[i].type;
 
@@ -124,7 +123,7 @@ const createChart = async () => {
               (c.strokeStyle = "#fff"),
               (c.lineWidth = 3),
               c.beginPath(),
-              path(dots[i]),
+              path(points[i]),
               c.fill(),
               c.stroke();
           };
