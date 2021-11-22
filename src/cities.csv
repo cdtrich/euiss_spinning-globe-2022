@@ -1,92 +1,165 @@
-date_label,date_start,title,loc,type,order,day,month,year,key,lon,lat
-1 January,2020-01-01,Croatia takes on presidency of the Council of the EU,Brussels,European Union,1,1,January,2020,key dates,4.3674366933879565,50.8436709
-10 January,2020-01-10,100th anniversary of the Treaty of Versailles,Versailles,History,2,10,January,2020,key dates,2.1266886,48.8035403
-11 January,2020-01-11,General elections,Taiwan,Politics,3,11,January,2020,key dates,120.9820179,23.9739374
-14-16 January,2020-01-14,Raisina Dialogue,New Delhi,Global,4,14,January,2020,key dates,77.2022662,28.6141793
-20 January,2020-01-20,Foreign Affairs Council,Brussels,European Union,5,20,January,2020,key dates,4.3674366933879565,50.8436709
-20-24 January,2020-01-20,12th GFMD Summit Meeting,Quito,Global,6,20,January,2020,key dates,-78.5123274,-0.2201641
-21-24 January,2020-01-21,World Economic Forum Annual Meeting,Davos,Global,7,21,January,2020,key dates,9.8237266,46.7961744
-25 January,2020-01-25,"Chinese New Year, Beginning of the year of the rat",China,Culture/Society,8,25,January,2020,key dates,104.999927,35.000074
-27 January,2020-01-27,75th Anniversary of the liberation of Auschwitz,Poland,History,9,27,January,2020,key dates,19.134422,52.215933
-29-30 January,2020-01-29,European Parliament Plenary Session,Brussels,European Union,10,29,January,2020,key dates,4.3674366933879565,50.8436709
-31 January,2020-01-31,Expiration of the Article 50 Extension,United Kingdom,European Union,11,31,January,2020,key dates,-3.2765753,54.7023545
-2 February,2020-02-02,Super Bowl,Florida,Culture/Society,12,2,February,2020,key dates,-81.4639835,27.7567667
-9 February,2020-02-09,Oscars,Los Angeles,Culture/Society,13,9,February,2020,key dates,-118.2427666,34.0536909
-14-16 February,2020-02-14,Munich Security Conference,Munich,Global,14,14,February,2020,key dates,11.5753822,48.1371079
-16 February,2020-02-16,Presidential elections,Guinea,Politics,15,16,February,2020,key dates,-10.7083587,10.7226226
-17 February,2020-02-17,Foreign Affairs Council,Brussels,European Union,16,17,February,2020,key dates,4.3674366933879565,50.8436709
-17-19 February,2020-02-17,NATO February meetings,Brussels,Global,17,17,February,2020,key dates,4.3674366933879565,50.8436709
-20-21 February,2020-02-20,OSCE Winter meeting,Vienna,Global,18,20,February,2020,key dates,16.3725042,48.2083537
-21 February,2020-02-21,Legislative elections,Iran,Politics,19,21,February,2020,key dates,54.5643516,32.6475314
-5 March,2020-03-05,50th anniversary of the Nuclear Non-Proliferation Treaty (NPT),London,History,20,5,March,2020,key dates,-0.1276474,51.5073219
-8 March,2020-03-08,International Women's Day,worldwide,Culture/Society,21,8,March,2020,key dates,0,0
-9-10 March,2020-03-09,Holi,India,Culture/Society,22,9,March,2020,key dates,78.6677428,22.3511148
-12 March,2020-03-12,Foreign Affairs Council (Trade),Brussels,European Union,23,12,March,2020,key dates,4.3674366933879565,50.8436709
-23 March,2020-03-23,Foreign Affairs Council,Brussels,European Union,24,23,March,2020,key dates,4.3674366933879565,50.8436709
-27-28 March,2020-03-27,NATO Standing Committee,Luxembourg,Global,25,27,March,2020,key dates,6.1296751,49.8158683
-6 April,2020-04-06,500th anniversary of Raphael's death,Rome,History,26,6,April,2020,key dates,12.4829321,41.8933203
-13-15 April,2020-04-13,Songkrang - Thai New Year,Thailand,Culture/Society,27,13,April,2020,key dates,100.83273,14.8971921
-22 April,2020-04-22,Earth day,worldwide,Culture/Society,28,22,April,2020,key dates,0,0
-22 April,2020-04-22,Foreign Affairs Council,Brussels,European Union,29,22,April,2020,key dates,4.3674366933879565,50.8436709
-22-23 April,2020-04-22,European Parliament Plenary Session,Brussels,European Union,30,22,April,2020,key dates,4.3674366933879565,50.8436709
-23 April - 23 May,2020-04-23,Ramadan,worldwide,Culture/Society,31,23,April,2020,key dates,0,0
-May,2020-05-01,Parliamentary elections,Ethiopia,Politics,32,1,May,2020,key dates,38.6521203,10.2116702
-9 May,2020-05-09,Europe day (70th Anniversary of the Schuman Declaration),Brussels,History,33,9,May,2020,key dates,4.3674366933879565,50.8436709
-11 May,2020-05-11,Foreign Affairs Council,Brussels,European Union,34,11,May,2020,key dates,4.3674366933879565,50.8436709
-12-16 May,2020-05-12,Eurovision,Rotterdam,Culture/Society,35,12,May,2020,key dates,4.488595428701715,51.9278469
-12 May,2020-05-12,Foreign Affairs Council (Defence),Brussels,European Union,36,12,May,2020,key dates,4.3674366933879565,50.8436709
-12 May,2020-05-12,200th anniversary of Florence Nightingale's birth,Florence,History,37,12,May,2020,key dates,11.2555757,43.7698712
-14 May,2020-05-14,Foreign Affairs Council (Development),Brussels,European Union,38,14,May,2020,key dates,4.3674366933879565,50.8436709
-17 May,2020-05-17,General elections,Dominican Republic,Politics,39,17,May,2020,key dates,-70.3028026,19.0974031
-18 May - 7 June,2020-05-18,Roland-Garros,Paris,Culture/Society,40,18,May,2020,key dates,2.3514616,48.8566969
-18 May,2020-05-18,100 years since the birth of Pope John Paul II,Poland,History,41,18,May,2020,key dates,19.134422,52.215933
-22-25 May,2020-05-22,NATO PA spring session,Kyiv,Global,42,22,May,2020,key dates,30.5241361,50.4500336
-30 May,2020-05-30,2020 UEFA Champions League Final,Istanbul,Culture/Society,43,30,May,2020,key dates,28.9651646,41.0096334
-3-4 June,2020-06-03,European Parliament Plenary Session,Brussels,European Union,44,3,June,2020,key dates,4.3674366933879565,50.8436709
-3-6 June,2020-06-03,Saint Petersburg International Economic Forum,Saint Petersburg,Global,45,3,June,2020,key dates,30.316229,59.938732
-4-6 June,2020-06-04,2020 Africa-France Summit,Bordeaux,Global,46,4,June,2020,key dates,-0.5800364,44.841225
-5-7 June,2020-06-05,Shangri-la Dialogue,Singapore,Global,47,5,June,2020,key dates,103.83039182212079,1.3408630000000001
-8 June,2020-06-08,Foreign Affairs Council (Trade),Brussels,European Union,48,8,June,2020,key dates,4.3674366933879565,50.8436709
-8-11 June,2020-06-08,The Twelfth Ministerial Conference (MC12) of the WTO,Nur-Sultan,Global,49,8,June,2020,key dates,71.4306682,51.1282205
-10-12 June,2020-06-10,46th G7 Summit,Camp David,Global,50,10,June,2020,key dates,-77.46509478938651,39.64874705
-12 June -12 July,2020-06-12,UEFA Euro2020,Europe,Culture/Society,51,12,June,2020,key dates,10,51
-12 June -12 July,2020-06-12,Copa América 2020,"Argentina, Colombia",Culture/Society,52,12,June,2020,key dates,-76.01276506104725,2.1860618499999998
-15 June,2020-06-15,Foreign Affairs Council,Brussels,European Union,53,15,June,2020,key dates,4.3674366933879565,50.8436709
-1 July,2020-07-01,Germany takes on the Presidency of the Council of the EU,Brussels,European Union,54,1,July,2020,key dates,4.3674366933879565,50.8436709
-July (date TBA),2020-07-01,12th BRICS Summit,Russia,Global,55,1,July,2020,key dates,97.7453061,64.6863136
-3-7 July,2020-07-03,OSCE Annual Session,Vancouver,Global,56,3,July,2020,key dates,-123.1139529,49.2608724
-24 July- 9 August,2020-07-24,Olympic Games,Tokyo,Culture/Society,57,24,July,2020,key dates,139.7594549,35.6828387
-28 July - 2 August,2020-07-28,Hajj,Mecca,Culture/Society,58,28,July,2020,key dates,39.826869,21.420847
-2 August,2020-08-02,30 years since the start of the First Gulf War,Kuwait,History,59,2,August,2020,key dates,47.4979476,29.2733964
-6 August,2020-08-06,75 years since the first use of the atomic bomb,Japan,History,60,6,August,2020,key dates,139.2394179,36.5748441
-30 August (the latest),2020-08-30,Presidential elections,Belarus,Politics,61,30,August,2020,key dates,27.6971358,53.4250605
-30 August/ 6 September,2020-08-30,Referendum for Independence,New Caledonia,Politics,62,30,August,2020,key dates,164.55660583077983,-20.454288599999998
-15-30 September,2020-09-15,75th Session of the UN General Assembly,New York,Global,63,15,September,2020,key dates,-74.0060152,40.7127281
-October (date TBA),2020-10-01,Parliamentary elections,Somalia,Politics,64,1,October,2020,key dates,49.083416,8.3676771
-October (date TBA),2020-10-01,General elections,Tanzania,Politics,65,1,October,2020,key dates,35.7878438,-6.5247123
-October (date TBA),2020-10-01,Parliamentary elections,Georgia,Politics,66,1,October,2020,key dates,-83.1137366,32.3293809
-5-7 October,2020-10-05,OSCE Autumn meeting,San Marino,Global,67,5,October,2020,key dates,12.458306,43.9458623
-20 October,2020-10-20,Opening of EXPO 2020,Dubai,Global,68,20,October,2020,key dates,55.1713,25.0657
-24 October,2020-10-24,75th anniversary of the founding of the UN,San Francisco,History,69,24,October,2020,key dates,-122.4199061,37.7790262
-31 October,2020-10-31,General elections,Ivory Coast,Politics,70,31,October,2020,key dates,-5.5679458,7.9897371
-November (date TBA),2020-11-01,East Asia Summit,Vietnam,Global,71,1,November,2020,key dates,108.4265113,13.2904027
-November (date TBA),2020-11-01,Asia Pacific Economic Cooperation Summit,Kuala Lumpur,Global,72,1,November,2020,key dates,101.6943028,3.1516636
-November,2020-11-01,Parliamentary elections,Egypt,Politics,73,1,November,2020,key dates,29.2675469,26.2540493
-November (date TBA),2020-11-01,General elections,Myanmar,Politics,74,1,November,2020,key dates,95.9999652,17.1750495
-3 November,2020-11-03,Presidential elections,United States of America,Politics,75,3,November,2020,key dates,-100.4458825,39.7837304
-4 November,2020-11-04,The USA exit of the Paris Climate Agreement takes effect,United States of America,Global,76,4,November,2020,key dates,-100.4458825,39.7837304
-9-19 November,2020-11-09,UN Climate Change Conference (COP 26),Glasgow,Global,77,9,November,2020,key dates,-4.2488787,55.8609825
-11-12 November,2020-11-11,European Parliament Plenary Session,Brussels,European Union,78,11,November,2020,key dates,4.3674366933879565,50.8436709
-11 November,2020-11-11,Armistice 1918,Compiègne,History,79,11,November,2020,key dates,2.8263171,49.4179497
-November/December (date TBA),2020-11-15,Berlin Foreign Policy Forum 2020,Berlin,Global,80,15,November,2020,key dates,13.3888599,52.5170365
-16-17 November,2020-11-16,Asia-Europe Meeting (ASEM13),Phnom Penh,Global,81,16,November,2020,key dates,104.9224426,11.568271
-20-23 November,2020-11-20,NATO Annual Session,Athens,Global,82,20,November,2020,key dates,23.7279843,37.9841493
-21-22 November,2020-11-21,15th Annual Meeting of the G20,Riyadh,Global,83,21,November,2020,key dates,46.7150648,24.6319692
-21 November,2020-11-21,General elections,New Zealand,Politics,84,21,November,2020,key dates,172.8344077,-41.5000831
-22-25 November,2020-11-22,World Government Summit-Expo 2020,Dubai,Global,85,22,November,2020,key dates,55.1713,25.0657
-26 November,2020-11-26,Thanksgiving,worldwide,Culture/Society,86,26,November,2020,key dates,0,0
-7 December,2020-12-07,General elections,Ghana,Politics,87,7,December,2020,key dates,-1.0800271,8.0300284
-10 December,2020-12-10,Peace Nobel Prize,Oslo,Culture/Society,88,10,December,2020,key dates,10.7389701,59.9133301
-10-18 December,2020-12-10,Hanouka,worldwide,Culture/Society,89,10,December,2020,key dates,0,0
-17 December,2020-12-17,250th anniversary of Beethoven's birth,worldwide,History,90,17,December,2020,key dates,0,0
-NA,2020-12-25,Christmas,worldwide,Culture/Society,91,25,December,2020,key dates,0,0
+date_label,date,title,loc,type,order,day,month,year,key,lon,lat
+01 January,2022-01-01,Start of trading under the Regional Comprehensive Economic Partnership,Asia,Economy,2,1,January,2022,key dates,89.2343748,51.2086975
+01 January,2022-01-01,France takes on rotating Council Presidency,"Brussels, Belgium",European Union,3,1,January,2022,key dates,4.351697,50.8465573
+02 January,2022-01-02,530 years since the Reconquista and the re-capture of Granada,Spain,History,4,2,January,2022,key dates,-4.8379791,39.3260685
+04 January,2022-01-04,Presidential elections,Italy,Politics,5,4,January,2022,key dates,12.674297,42.6384261
+12-13 January,2022-01-12,13th European Space Summit,"Brussels, Belgium",European Union,6,12,January,2022,key dates,4.351697,50.8465573
+15 January,2022-01-15,400 years since the birth of French playwright Molière,France,History,7,15,January,2022,key dates,1.8883335,46.603354
+17-20 January,2022-01-17,European Parliament Plenary Session,"Strasbourg, France",European Union,8,17,January,2022,key dates,7.7507127,48.584614
+17-21 January,2022-01-17,DAVOS Forum,"Geneva, Switzerland",Global,9,17,January,2022,key dates,6.1466014,46.2017559
+17-28 January,2022-01-17,1st Working Session of Ad Hoc Committee on cybercrime established under UNGA Resolution 74/247,"New York, USA",Global,10,17,January,2022,key dates,-74.0060152,40.7127281
+22 January,2022-01-22,"50 years since Denmark, Ireland, Norway and the UK signed the Treaty of Accession to the European Community (Norway did not ratify)",worldwide,European Union,11,22,January,2022,key dates,0,0
+27 January,2022-01-27,International Holocaust Remembrance Day,worldwide,History,12,27,January,2022,key dates,0,0
+30 January,2022-01-30,Legislative elections,Portugal,Politics,13,30,January,2022,key dates,-7.8896263,40.0332629
+30 January,2022-01-30,50 years since the Bloody Sunday,Northern Ireland,History,14,30,January,2022,key dates,-6.9591554,54.5859836
+31 January,2022-01-31,Second Brexit Anniversary,United Kingdom,European Union,15,31,January,2022,key dates,-3.2765753,54.7023545
+01 February,2022-02-01,Chinese New Year - Year of the Tiger,China,Culture/society,17,1,February,2022,key dates,104.999927,35.000074
+04-20 February,2022-02-04,Olympic Winter Games,"Beijing, China",Culture/society,18,4,February,2022,key dates,116.3912757,39.906217
+06 February,2022-02-06,General elections,Costa Rica,Politics,19,6,February,2022,key dates,-84.0739102,10.2735633
+06 February,2022-02-06,"70th anniversary of reign of Queen Elizabeth II, Platinum Jubilee",UK,Culture/society,20,6,February,2022,key dates,-3.2765753,54.7023545
+06 February,2022-02-06,Finale of 2021 Africa Cup of Nations (CAN),"Yaounde, Cameroon",Culture/society,21,6,February,2022,key dates,11.5213344,3.8689867
+13 February,2022-02-13,Presidential elections,Germany,Politics,22,13,February,2022,key dates,10.4234469,51.0834196
+13 February,2022-02-13,Super Bowl,"Los Angeles, USA",Culture/society,23,13,February,2022,key dates,-118.242766,34.0536909
+14 February,2022-02-14,Valentine's Day,worldwide,Global,24,14,February,2022,key dates,0,0
+14-17 February,2022-02-14,European Parliament Plenary Session,"Strasbourg, France",European Union,25,14,February,2022,key dates,7.7507127,48.584614
+15 February,2022-02-15,Nirvana Day,India,Culture/society,26,15,February,2022,key dates,78.6677428,22.3511148
+17 February,2022-02-17,Fueling the Future Summit,Online,European Union,27,17,February,2022,key dates,3.8595132132013186,43.59047185
+17-18 February,2022-02-17,6th EU-African Union summit,"Brussels, Belgium",European Union,28,17,February,2022,key dates,4.351697,50.8465573
+18-20 February,2022-02-18,Munich Security Conference,"Munich, Germany",Global,29,18,February,2022,key dates,11.5753822,48.1371079
+21 February,2022-02-21,345 anniversary of death of the Dutch Philosopher Baruch Spinoza,worldwide,History,30,21,February,2022,key dates,0,0
+27 February,2022-02-27,Presidential and Legislative elections,Mali,Politics,31,27,February,2022,key dates,-2.2900239,16.3700359
+27 February,2022-02-27,"1750 anniversary of birth of Constantine the Great, Roman Emperor",worldwide,History,32,27,February,2022,key dates,0,0
+28 February,2022-02-28,100 years since Egypt gained independence from the UK,Egypt,History,33,28,February,2022,key dates,29.2675469,26.2540493
+01-09 March,2022-03-01,World Telecommunication Standardization Assembly,"Geneva, Switzerland",Global,34,1,March,2022,key dates,6.1466014,46.2017559
+02 April - 03 May,2022-03-02,Ramadan,worldwide,Global,56,2,March,2022,key dates,0,0
+03-04 March,2022-03-03,European Summit of regions and cities,"Marseille, France",European Union,35,3,March,2022,key dates,5.3699525,43.2961743
+04-13 March,2022-03-04,Winter Paralympics,"Beijing, China",Culture/society,36,4,March,2022,key dates,116.3912757,39.906217
+07-10 March,2022-03-07,European Parliament Plenary Session,"Strasbourg, France",European Union,38,7,March,2022,key dates,7.7507127,48.584614
+08 March,2022-03-08,International Women's Day,worldwide,Global,37,8,March,2022,key dates,0,0
+09 March,2022-03-09,Presidential elections,South Korea,Politics,39,9,March,2022,key dates,127.6961188,36.638392
+13 March,2022-03-13,Parliamentary elections,Colombia,Politics,40,13,March,2022,key dates,-72.9088133,4.099917
+15-16 March,2022-03-15,International Conference on the EU Cybersecurity Act,"Brussels, Belgium",European Union,41,15,March,2022,key dates,4.351697,50.8465573
+15-16 March,2022-03-15,Blue Invest Africa,"Mahe Island, Seychelles",Global,42,15,March,2022,key dates,55.49263800753758,-4.68379555
+17 March,2022-03-17,Saint Patrick's Day,Ireland,Culture/society,43,17,March,2022,key dates,-7.9794599,52.865196
+21-26 March,2022-03-21,"9th World Water Forum ""Water Security for Peace and Development""","Dakar, Senegal",Global,44,21,March,2022,key dates,-17.447938,14.693425
+21-31 March,2022-03-21,2022 Session of the ITU Council,"Geneva, Switzerland",Global,45,21,March,2022,key dates,6.1466014,46.2017559
+22-27 March,2022-03-22,Winter Military World Games,worldwide,Global,46,22,March,2022,key dates,0,0
+23-24 March,2022-03-23,European Parliament Plenary Session,"Brussels, Belgium",European Union,47,23,March,2022,key dates,4.351697,50.8465573
+24-25 March,2022-03-24,Adoption of the Strategic Compass,"Brussels, Belgium",European Union,48,24,March,2022,key dates,4.351697,50.8465573
+24-25 March,2022-03-24,EURO Summit,"Brussels, Belgium",European Union,49,24,March,2022,key dates,4.351697,50.8465573
+27 March,2022-03-27,General elections,Lebanon,Politics,50,27,March,2022,key dates,35.843409,33.8750629
+27 March,2022-03-27,Hong Kong Chief Executive elections,Hong Kong,Politics,51,27,March,2022,key dates,114.1628131,22.2793278
+27 March,2022-03-27,Oscars Awards,"Los Angeles, USA",Culture/society,52,27,March,2022,key dates,-118.242766,34.0536909
+29 March,2022-03-29,5 years  UK's start formal withdrawal from EU,UK,European Union,53,29,March,2022,key dates,-3.2765753,54.7023545
+31 March,2022-03-31,Closing of the World Expo,"Dubai, UAE",Global,54,31,March,2022,key dates,55.2924914,25.2653471
+03 April,2022-04-03,General elections,Serbia,Politics,57,3,April,2022,key dates,20.55144,44.1534121
+03 April,2022-04-03,2nd round General elections,Costa Rica,Politics,58,3,April,2022,key dates,-84.0739102,10.2735633
+04-07 April,2022-04-04,European Parliament Plenary Session,"Strasbourg, France",European Union,59,4,April,2022,key dates,7.7507127,48.584614
+10 April,2022-04-10,Presidential elections,France,Politics,60,10,April,2022,key dates,1.8883335,46.603354
+17 April,2022-04-17,Easter Sunday,worldwide,Global,61,17,April,2022,key dates,0,0
+22 April,2022-04-22,Earth Day,worldwide,Global,62,22,April,2022,key dates,0,0
+24 April,2022-04-24,Parliamentary elections,Slovenia,Politics,63,24,April,2022,key dates,14.626325753340627,46.149034549999996
+02-05 May,2022-05-02,Asian Development Bank meeting,Sri-Lanka,Economy,66,2,May,2022,key dates,80.7137847,7.5554942
+02-05 May,2022-05-02,European Parliament Plenary Session,"Strasbourg, France",European Union,67,2,May,2022,key dates,7.7507127,48.584614
+03 May,2022-05-03,World Press Freedom Day,worldwide,Global,68,3,May,2022,key dates,0,0
+05 May,2022-05-05,Northern Ireland Assembly elections,UK,Politics,69,5,May,2022,key dates,-3.2765753,54.7023545
+09 May,2022-05-09,Europe Day,worldwide,European Union,70,9,May,2022,key dates,0,0
+09 May,2022-05-09,Legislative and Presidential elections,worldwide,Politics,71,9,May,2022,key dates,0,0
+10-14 May,2022-05-10,Eurovision,"Turin, Italy",Culture/society,73,10,May,2022,key dates,7.6824892,45.0677551
+12-13 May,2022-05-12,EU-Startups Summit,"Barcelona, Spain",Economy,72,12,May,2022,key dates,2.1774322,41.3828939
+15-16 May,2022-05-15,Total Lunar Eclipse,worldwide,Global,74,15,May,2022,key dates,0,0
+17-21 May,2022-05-17,9th Africities Summit,"Kisumu, Kenya",Global,75,17,May,2022,key dates,34.7541761,-0.1029109
+18-19 May,2022-05-18,European Parliament Plenary Session,"Brussels, Belgium",European Union,76,18,May,2022,key dates,4.351697,50.8465573
+19 May,2022-05-19,Buddha's Birthday,worldwide,Global,77,19,May,2022,key dates,0,0
+21 May,2022-05-21,Federal elections (half-Senate),Australia,Politics,78,21,May,2022,key dates,134.755,-24.7761086
+22 May,2022-05-22,Roland Garros Championship,"Paris, France",Global,79,22,May,2022,key dates,2.3200410217200766,48.8588897
+23-27 May,2022-05-23,57th Annual Meeting of the African Development Bank and 48th Annual Meeting of the African Development Fund  ,"Accra, Ghana",Global,80,23,May,2022,key dates,-0.2012376,5.5571096
+25 May,2022-05-25,Africa Day (annual celebration),Africa,Culture/society,81,25,May,2022,key dates,17.7578122,11.5024338
+28 May,2022-05-28,UEFA Champions League Finale,"Saint Petersburg, Russia",Culture/society,82,28,May,2022,key dates,30.380619357025516,59.917857350000006
+29 May,2022-05-29,Presidential elections,Colombia,Politics,83,29,May,2022,key dates,-72.9088133,4.099917
+30 May,2022-05-30,47 years since the creation of the European Space Agency,"Paris, France",European Union,84,30,May,2022,key dates,2.3200410217200766,48.8588897
+31 May,2022-05-31,60 years since the execution of the Nazi Colonel Adolf Eichmann,"Tel-Aviv, Israel",History,85,31,May,2022,key dates,34.7818064,32.0852997
+04 June,2022-06-04,Tian'an Men anniversary,worldwide,History,88,4,June,2022,key dates,0,0
+06-09 June,2022-06-06,European Parliament Plenary Session,"Strasbourg, France",European Union,89,6,June,2022,key dates,7.7507127,48.584614
+06-15 June,2022-06-06,World Telecommunication Development Conference,"Addis Ababa, Ethiopia",Global,91,6,June,2022,key dates,38.7612525,9.0107934
+09 June,2022-06-09,"350th anniversary of the birth of the Russian Emperor Peter I, The Great",Russia,History,90,9,June,2022,key dates,97.7453061,64.6863136
+10-12th June,2022-06-10,Shangri-La Dialogue,"Singapore, Singapore",Politics,92,10,June,2022,key dates,103.8194992,1.357107
+15-19 June,2022-06-15,Saint Petersburg International Economic Forum,"Saint Petersburg, Russia",Politics,93,15,June,2022,key dates,30.380619357025516,59.917857350000006
+20 June,2022-06-20,World Refugee Day,worldwide,Global,94,20,June,2022,key dates,0,0
+22-23 June,2022-06-22,European Parliament Plenary Session,"Brussels, Belgium",European Union,95,22,June,2022,key dates,4.351697,50.8465573
+25 June,2022-06-25,75 years since the first publication of Anne Frank's diary,The Netherlands,History,96,25,June,2022,key dates,5.541246849406163,52.24764975
+29-30 June,2022-06-29,NATO Summit,"Madrid, Spain",Politics,99,29,June,2022,key dates,-3.7035825,40.4167047
+01 July,2022-07-01,Czech Republic takes on rotating Council Presidency,"Brussels, Belgium",European Union,100,1,July,2022,key dates,4.351697,50.8465573
+01-24 July,2022-07-01,Tour de France,"Denmark, France",Culture/society,101,1,July,2022,key dates,12.586976798986157,55.681148449999995
+02-06 July,2022-07-02,OSCE Parliamentary Assembly’s 29th Annual Session,"Birmingham, UK",Politics,102,2,July,2022,key dates,-1.9026911,52.4796992
+04-07 July,2022-07-04,European Parliament Plenary Session,"Strasbourg, France",European Union,103,4,July,2022,key dates,7.7507127,48.584614
+07-17 July,2022-07-07,World Games,"Birmingham, USA",Global,104,7,July,2022,key dates,-86.8024326,33.5206824
+07-12 July,2022-07-07,Hajj,"Mecca, Saudi Arabia",Culture/society,105,7,July,2022,key dates,39.826869,21.420847
+11 July,2022-07-11,60 years since the First Transatlantic Satellite Television Transmission,worldwide,History,107,11,July,2022,key dates,0,0
+30 July,2022-07-30,Islamic New Year,worldwide,Global,108,30,July,2022,key dates,0,0
+09 August,2022-08-09,"Presidential, National Assembly and Senate elections",Kenya,Politics,109,9,August,2022,key dates,38.4313975,1.4419683
+11-21 August,2022-08-11,European Sports championships,"Munich, Germany",Culture/society,110,11,August,2022,key dates,11.5753822,48.1371079
+14 August,2022-08-14,75th anniversary of Pakistan Independence,Pakistan,History,111,14,August,2022,key dates,71.247499,30.3308401
+15 August,2022-08-15,75th anniversary of India Independence,India,History,112,15,August,2022,key dates,78.6677428,22.3511148
+15 August,2022-08-15,Feast of the Assumption,worldwide,Global,113,15,August,2022,key dates,0,0
+25 April - 08 May,2022-08-25,UN biodiversity conference (II part),"Kuming, China",Global,64,25,August,2022,key dates,111.9872019,23.0066929
+27 August,2022-08-27,"445 years since the death of The Titian, Italian Painter",Italy,History,114,27,August,2022,key dates,12.674297,42.6384261
+02 September,2022-09-02,"85 years since the death of Pierre de Coubertin, founder of the International Olympic Committee",worldwide,History,116,2,September,2022,key dates,0,0
+03 September,2022-09-03,Federal elections (House of Representatives),Australia,Politics,117,3,September,2022,key dates,134.755,-24.7761086
+06 September,2022-09-06,500 years since the first recorded circumnavigation of the world (1522),worldwide,Global,118,6,September,2022,key dates,0,0
+07 September,2022-09-07,Brazil Bicentennial independance,Brazil,History,119,7,September,2022,key dates,-53.2,-10.3333333
+10-25 September,2022-09-10,Asian Games,"Hangzhou, China",Culture/society,142,10,September,2022,key dates,120.2052342,30.2489634
+11 September,2022-09-11,General elections,Sweden,Politics,121,11,September,2022,key dates,14.5208584,59.6749712
+12-15 September,2022-09-12,European Parliament Plenary Session,"Strasbourg, France",European Union,124,12,September,2022,key dates,7.7507127,48.584614
+12-18 September,2022-09-12,EuroPride 2022 Belgrade,"Belgrade, Serbia",Culture/society,125,12,September,2022,key dates,20.4568974,44.8178131
+13-27 September,2022-09-13,77th UN General Assembly,"New York, USA",Global,122,13,September,2022,key dates,-74.0060152,40.7127281
+15-16 September,2022-09-15,Shanghai Cooperation Forum,Uzbekistan,Politics,123,15,September,2022,key dates,63.9528098,41.32373
+17-22 September,2022-09-17,ICANN 24th Annual General Meeting,"Kuala Lumpur, Malaysia",Global,128,17,September,2022,key dates,101.6942371,3.1516964
+18 September,2022-09-18,International Equal Pay Day,Global,Global,127,18,September,2022,key dates,-79.34914879325001,43.7283874
+01 October,2022-10-01,Parliamentary elections,Latvia,Politics,133,1,October,2022,key dates,24.7537645,56.8406494
+02 October,2022-10-02,General elections,Brazil,Politics,134,2,October,2022,key dates,-53.2,-10.3333333
+02 October,2022-10-02,General elections,Bosnia and Herzegovina,Politics,135,2,October,2022,key dates,17.5961467,44.3053476
+02 October,2022-10-02,90 years since Iraq gained independence,Iraq,History,136,2,October,2022,key dates,44.1749775,33.0955793
+03-06 October,2022-10-03,European Parliament Plenary Session,"Strasbourg, France",European Union,137,3,October,2022,key dates,7.7507127,48.584614
+04-10 October,2022-10-04,Wolrd Space Week,worldwide,Global,138,4,October,2022,key dates,0,0
+04-05 October,2022-10-04,Yom Kippur,worldwide,Global,139,4,October,2022,key dates,0,0
+07 October,2022-10-07,Vladimir Putin's 70th birthday,Russia,Politics,140,7,October,2022,key dates,97.7453061,64.6863136
+17-20 October,2022-10-17,European Parliament Plenary Session,"Strasbourg, France",European Union,141,17,October,2022,key dates,7.7507127,48.584614
+27 June -10 July,2022-10-27,Wimbledon Championship,"Wimbledon, UK",Culture/society,98,27,October,2022,key dates,-0.2064027,51.4214787
+30-31 October,2022-10-30,G20 Summit,"Bali, Indonesia",Global,143,30,October,2022,key dates,115.0906401,-8.3304977
+31 October,2022-10-31,Halloween,worldwide,Global,144,31,October,2022,key dates,0,0
+31 October,2022-10-31,"135 years since the birth of Chiang Kai-Shek, leader of the Republic of China and member of the Kuomintang",worldwide,History,145,31,October,2022,key dates,0,0
+4 November,2022-11-04,100 years since the archeologist Howard Carter discovers the tomb of Pharaoh Tutankhamun in the Valley of the Kings,Egypt,History,149,4,November,2022,key dates,29.2675469,26.2540493
+07-08 November,2022-11-07,Total Lunar Eclispe,worldwide,Global,150,7,November,2022,key dates,0,0
+08 November,2022-11-08,US midterm elections,USA,Politics,151,8,November,2022,key dates,-100.445882,39.7837304
+08-20 November,2022-11-08,COP27,"Sharm El-Sheikh, Egypt",Global,152,8,November,2022,key dates,34.295447,27.8644422
+09-10 November,2022-11-09,European Parliament Plenary Session,"Brussels, Belgium",European Union,153,9,November,2022,key dates,4.351697,50.8465573
+11 November,2022-11-11,Armistice Day,worldwide,Global,154,11,November,2022,key dates,0,0
+21-24 November,2022-11-21,European Parliament Plenary Session,"Strasbourg, France",European Union,155,21,November,2022,key dates,7.7507127,48.584614
+24 November,2022-11-24,Thanksgiving,USA,Culture/society,157,24,November,2022,key dates,-100.445882,39.7837304
+5 December,2022-12-05,Christopher Colombus is the first European to set foot in Hispaniola Island (now Haiti and the Dominican Republic) 530 years ago,worldwide,History,159,5,December,2022,key dates,0,0
+10 December,2022-12-10,World Human Rights Day,worldwide,Global,160,10,December,2022,key dates,0,0
+12-15 December,2022-12-12,European Parliament Plenary Session,"Strasbourg, France",European Union,161,12,December,2022,key dates,7.7507127,48.584614
+16-18 December,2022-12-16,Sixth World Telecommunication/ICT Policy Forum,"Geneva, Switzerland",Global,162,16,December,2022,key dates,6.1466014,46.2017559
+18-26 December,2022-12-18,Hanukkah,worldwide,Global,163,18,December,2022,key dates,0,0
+25 December,2022-12-25,Christmas,worldwide,Global,164,25,December,2022,key dates,0,0
+TBC,NA,Legislative elections,Libya,Politics,1,NA,NA,2022,key dates,18.1236723,26.8234472
+TBD,NA,35th Ordinary Session of the African Union Assembly and appointment of the new Chairperson,"Addis Ababa, Ethiopia",Politics,16,NA,NA,2022,key dates,38.7612525,9.0107934
+TBC,NA,Parliamentary elections,Hungary,Politics,55,NA,NA,2022,key dates,19.5060937,47.1817585
+TBC,NA,37th High-Level Meeting of Heads of UN Peace Missions in West Africa,"Bamako, Mali",Politics,65,NA,NA,2022,key dates,-7.984739136241295,12.61326555
+TBD,NA,Legislative elections,France,Politics,86,NA,NA,2022,key dates,1.8883335,46.603354
+TBD,NA,Parliamentary elections,Malta,Politics,87,NA,NA,2022,key dates,14.4476911,35.8885993
+25/06 - 05/07,NA,Mediterranean Games,"Oran, Algeria",Culture/society,97,NA,NA,2022,key dates,-0.6492976,35.7032751
+9-10 July,NA,"20th anniversary of the African Union (Durban Summit, 9-10 July 2002)",worldwide,Global,106,NA,NA,2022,key dates,0,0
+TBD,NA,Presidential elections,"Vienna, Austria",Politics,115,NA,NA,2022,key dates,16.3725042,48.2083537
+9-11 September,NA,Rugby World Cup Sevens,"Cape Town , South Africa",Global,120,NA,NA,2022,key dates,18.417396,-33.928992
+16- 19 September,NA,China-ASEAN EXPO,Malaysia,Politics,126,NA,NA,2022,key dates,102.2656823,4.5693754
+26 September - 14 October,NA,ITU Plenipotentiary Conference 2022,"Bucharest, Romania",Global,129,NA,NA,2022,key dates,26.1027202,44.4361414
+TBD,NA,Presidential elections,Slovenia,Politics,130,NA,NA,2022,key dates,14.626325753340627,46.149034549999996
+TBC,NA,20th CCP National Party Congress,"Beijing, China",Politics,131,NA,NA,2022,key dates,116.3912757,39.906217
+TBD,NA,Legislative / National Assembly,Sao Tome and Principe,Politics,132,NA,NA,2022,key dates,6.9648718,0.88754980000000006
+TBC,NA,Fiji general elections,Fiji,Politics,146,NA,NA,2022,key dates,179.0122737,-18.1239696
+TBC,NA,2nd Russia-Africa Summit,"Addis Ababa , Ethiopia",Global,147,NA,NA,2022,key dates,38.7612525,9.0107934
+TBC,NA,Paris Peace Forum,"Paris, France",Global,148,NA,NA,2022,key dates,2.3200410217200766,48.8588897
+21 November - 18 December,NA,Football World Cup,Qatar,Culture/society,156,NA,NA,2022,key dates,51.2295295,25.3336984
+TBC,NA,134th Annual Assembly of the Eastern Partnership Civil society Forum,"Brussels, Belgium",European Union,158,NA,NA,2022,key dates,4.351697,50.8465573
